@@ -1,0 +1,9 @@
+{
+  "sender": "john.doe@example.com",
+  "intent": "Invoice",
+  "data": {
+    "invoice_number": "INV-1001",
+    "amount": "$500",
+    "due_date": "2025-06-15"
+  }
+}

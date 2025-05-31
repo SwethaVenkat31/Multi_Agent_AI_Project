@@ -1,0 +1,9 @@
+From: jane@example.com  
+Subject: RFQ Request  
+Body:  
+Hi Team,
+
+We urgently need a quote for the following items. Please respond by EOD.
+
+Regards,  
+Jane

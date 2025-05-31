@@ -18,10 +18,28 @@ This is a multi-agent system that:
 python main.py
 
 ---
+multi_agent_ai_project/
+├── agents/
+├── memory/
+├── input_files/
+├── main.py
+├── README.md
+└── requirements.txt
 
 ## 🚀 Final Step: Test It!
 
 Run this in your terminal:
 
 ```bash
+python main.py
+
+
+## Agents
+- **Classifier Agent:** Detects format & intent, routes to correct agent.
+- **Email Agent:** Extracts subject, sender, urgency.
+- **JSON Agent:** Validates and processes structured JSON.
+
+## How to Run
+```bash
+cd multi_agent_ai_project
 python main.py
